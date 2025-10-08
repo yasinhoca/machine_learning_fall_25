@@ -1,1 +1,1 @@
-<img src="golf.webp" width="50%" />
+<img src="golf.webp" >
